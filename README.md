@@ -1,4 +1,5 @@
 # Shared-Code
-Just some code that we can all share
 
-Grad school and stuff
+Here's some code from my Master's degree in Physics that I am sharing.
+
+Enjoy!
